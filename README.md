@@ -167,7 +167,7 @@ Add screenshots such as:
 * EC2 Instance
 | EC2 Instance | Security Group |
 |--------------|----------------|
-| ![](image.png) | ![alt text](image-3.png) |
+| ![](image.png) | ![alt text](<Screenshot (180).png>) |
 
 ---
 
