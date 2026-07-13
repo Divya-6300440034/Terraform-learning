@@ -138,11 +138,36 @@ Add screenshots such as:
 
 * Terraform Apply Output
 * AWS VPC
+| VPC|
+|--------------|----------------|
+| ![](image.png) | ![alt text](image-5.png) |
+
 * Public Subnet
+| Public Subnet|
+|--------------|----------------|
+| ![](image.png) |![alt text](image-6.png) |
+
+
+
 * Internet Gateway
+|Internet Gateway config| 
+|-----------------|---------|
+| ![](internet gateway) | ![alt text](image-2.png)  |
 * Route Table
+| Route Table|
+|--------------|----------------|
+| ![](image.png) |![](image-7.png) |
+
+
 * Security Group
+| Security Group |
+|--------------|----------------|
+| ![](image.png) | ![alt text](image-4.png) |
+
 * EC2 Instance
+| EC2 Instance | Security Group |
+|--------------|----------------|
+| ![](image.png) | ![alt text](image-3.png) |
 
 ---
 
@@ -153,7 +178,6 @@ Through this project, I learned:
 * Infrastructure as Code (IaC) using Terraform
 * AWS networking fundamentals
 * VPC and Subnet creation
-* Internet Gateway configuration
 * Route Table association
 * Security Group configuration
 * EC2 provisioning using Terraform
